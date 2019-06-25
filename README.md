@@ -2,6 +2,6 @@
 
 ---
 
-## Throws random dice numbers and determine the winner
+## Throws random dice numbers and determines the winner
 
 ---
